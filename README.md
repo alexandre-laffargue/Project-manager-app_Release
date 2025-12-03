@@ -17,7 +17,7 @@ Nous avons mis à votre disposition une documentation complète pour chaque type
 *   **[Guide Utilisateur](USER_GUIDE.md)** : Apprenez à utiliser l'application, gérer vos tâches et collaborer avec votre équipe.
 *   **[Guide Administrateur](ADMIN_GUIDE.md)** : Instructions détaillées pour l'installation, le déploiement (Docker), la configuration et la maintenance du serveur.
 *   **[Architecture Technique](ARCHITECTURE.md)** : Plongez dans les détails techniques de l'application (Vue.js, Node.js, MongoDB, Docker).
-*   **Documentation API** : Une fois l'application lancée, la documentation Swagger est disponible sur `http://localhost:3000/api-docs`.
+*   **Documentation API** : Une fois l'application lancée, la documentation Swagger est disponible sur `http://localhost:3000/docs`.
 
 ## Stack Technique
 
